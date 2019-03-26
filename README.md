@@ -26,3 +26,6 @@ Customer system:
 6.A customer can delete an existing booking from his list if it is a future booking only, otherwise an error message is displayed.
 
 7.The cinema customer can logout from the application.
+# Chess game
+This is a virtual chessboard (command-line) for two human players. Help information and usage can be found in the game.
+
