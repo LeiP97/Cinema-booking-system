@@ -1,0 +1,11 @@
+Life of Pi,17/08/2019-3pm,A young man who survives a disaster at sea is hurtled into an epic journey of adventure and discovery. While cast away, he forms an unexpected connection with another survivor: a fearsome Bengal tiger.
+Manchester by the Sea,07/08/2019-1pm,08/08/2019-2pm,A depressed uncle is asked to take care of his teenage nephew after the boy's father dies.
+American Beauty,07/08/2019-11am,08/08/2019-3pm,09/08/2019-12am,09/08/2019-2pm,A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.
+Forrest Gump,07/08/2019-2pm,08/08/2019-11am,08/08/2019-12am,09/08/2019-1pm,08/08/2019-3pm,The presidencies of Kennedy and Johnson, Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75.
+Once Upon a Time in America,07/08/2019-12am,07/08/2019-4pm,08/08/2019-1pm,08/08/2019-4pm,A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.
+Harry Potter,07/12/2019-2pm,wizard
+Titanic,12/11/2019-1pm,boat
+Titanic,11/12/2019-1pm,boat
+Leon,31/12/2019-1pm,killer
+The Bee,12/01/2019-5pm,thebee
+ET,12/01/2019-6pm,et
